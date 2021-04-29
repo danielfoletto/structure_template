@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-from . import helpers
+from sample import helpers
+
 
 def get_hmm():
     """Get a thought."""
